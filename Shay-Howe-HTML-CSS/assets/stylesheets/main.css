@@ -230,6 +230,13 @@ h1, h3, h4, h5, p {
   color: #a9b2b9;
 }
 
+.teaser img {
+  border-radius: 5px;
+  display: block;
+  margin-bottom: 22px;
+  max-width: 100%;
+}
+
 /* Primary Header */
 
 .logo {
